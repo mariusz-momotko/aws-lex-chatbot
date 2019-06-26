@@ -11,5 +11,6 @@ In order to test the OrderTicket bot you need:
   - OrderTicketFulfillment
 
 2. Optionally, create tests (i.e. create a given test, name it and copy-pase its content) for those lambda functions:
-  -  
+  - TestFulfilmentText - testing textual form of the final message
+  - TestFulfillmentVoice - 
   
